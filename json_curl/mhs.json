@@ -1,0 +1,24 @@
+[
+  {
+    "nama": "Venica Yulia Nur Dheanty",
+    "nim": "20050974032",
+    "no_telepon": "082132398659",
+    "hobi": ["Berenang", "Menari", "Melukis"],
+    "riwayat_pendidikan": {
+      "SD": "SDN Karangturi",
+      "SMP": "SMPN 1 Kebomas",
+      "SMA": "SMAN 1 Cerme"
+    }
+  },
+  {
+    "nama": "Venica Nur Laila Taviv",
+    "nim": "20050974000",
+    "no_telepon": "081234567890",
+    "hobi": ["Voli", "Basket", "Bulutangkis"],
+    "riwayat_pendidikan": {
+      "SD": "SDN Sukorame",
+      "SMP": "SMPN 4 Gresik",
+      "SMA": "SMAN 1 Kebomas"
+    }
+  }
+]
